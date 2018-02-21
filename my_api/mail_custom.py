@@ -3,7 +3,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from my_api.local_settings import *
+# from my_api.local_settings import *
 
 
 def send_email(amount, time, category_name):
