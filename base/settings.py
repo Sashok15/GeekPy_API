@@ -25,7 +25,7 @@ SECRET_KEY = 'w6!-4$=c&(a8outz0scw-^i=!(h8(0eye3rzxd5wyq4v2%3c!d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['10.5.228.216', 'rocky-stream-93336.herokuapp.com']
 
 
 # Application definition
